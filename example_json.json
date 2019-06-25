@@ -1,0 +1,20 @@
+{
+ "workers": 198.0,
+ "movers_300m": 11654.0,
+ "movers_50s": 0.229,
+ "residents_30s": 0.091,
+ "residents_50s": 0.205,
+ "workers_20s": 0.182,
+ "workers_30s": 0.248,
+ "workers_50s": 0.182,
+ "d-5mth_sales": 2411.0,
+ "d-4mth_sales": 3706.0,
+ "d-3mth_sales": 4964.0,
+ "d-2mth_sales": 3629.0,
+ "d-1mth_sales": 2632,
+ "d-mth_sales": 3584,
+ "local_sales": 3584,
+ "private_size": 52.0,
+ "movers_1st": 40.0,
+ "workers_1st": 30.0
+}
